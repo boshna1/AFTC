@@ -12,8 +12,6 @@
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Sprint.uasset",
-				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld.umap",
-				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld1.umap",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainGame_HLOD0_Instancing.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/7/CJ/IY3P08S1LK770AY9A70IIN.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalObjects__/Levels/LV_MainGame/D/F5/TSXJBJQMQCHWWL7J1BAMU6.uasset",
@@ -159,7 +157,10 @@
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/5/16/60G7S8NY69BXZ35TPHJJ4F.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/5/PL/QGQJ4O0SRFUD385CU5Z6GY.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/8/BS/5KYTJY3KC6D939OS49TAYQ.uasset",
-				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainGame.umap"
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainGame.umap",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_CamReset.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld.umap",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld1.umap"
 			]
 		}
 	]
