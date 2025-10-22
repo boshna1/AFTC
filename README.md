@@ -16,7 +16,7 @@ Role: Programmer/Implementer
 
 Responsible for programming game, including design patterns.
 
-Video:https://youtu.be/oQ6wcTQyEFg
+Video: https://www.youtube.com/watch?v=gszICSAtMa0
 
 Flowchart: https://www.canva.com/design/DAG2X9VTx0I/uOMvB4Hcv6HCmL8dpyOAfQ/edit?utm\_content=DAG2X9VTx0I\&utm\_campaign=designshare\&utm\_medium=link2\&utm\_source=sharebutton
 
