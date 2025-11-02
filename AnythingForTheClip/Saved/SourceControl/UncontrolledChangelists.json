@@ -1,0 +1,25 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Spawner.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/4/TJ/98PRXR68WAFOOHPGVD2FY0.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/E/6L/DZKKUJ2NB8GTUXP9HVD2SR.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/0/IY/JCCAHQ4SKKS8P4ORIWVECN.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/3/BR/55EO8P2FBJQX0YVO5BGFKG.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/D/XN/7W057C4HQ9XRC753716XZO.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/4/9A/KI8Z6HOZ9V7B5CCBXPZL8M.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/8/02/2QXYPQZX1O0OV0GTECIQSO.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/NewBlueprint.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/9/74/OQZIZW917S4CWYD2DQO3X5.uasset"
+			]
+		}
+	]
+}
