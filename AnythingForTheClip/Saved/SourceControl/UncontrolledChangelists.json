@@ -5,9 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Move.uasset",
-				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uasset",
+<<<<<<< HEAD
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/BP_MainGame.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uasset",
@@ -166,6 +165,26 @@
 				"C:/Users/Schwe/Documents/Unreal Projects/GDW5Tuto1/AFTC/AnythingForTheClip/Content/Michael/LV_MainGame_HLOD0_Instancing1.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld.umap",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/NewWorld1.umap"
+=======
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Spawner.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/E/6L/DZKKUJ2NB8GTUXP9HVD2SR.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/0/IY/JCCAHQ4SKKS8P4ORIWVECN.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/3/BR/55EO8P2FBJQX0YVO5BGFKG.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/D/XN/7W057C4HQ9XRC753716XZO.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/4/9A/KI8Z6HOZ9V7B5CCBXPZL8M.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/8/02/2QXYPQZX1O0OV0GTECIQSO.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/9/74/OQZIZW917S4CWYD2DQO3X5.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/1/XA/HYTGEXNKC3X586WK24NA8B.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hat_Man2.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Material.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/__ExternalActors__/Levels/LV_MainGame/4/TJ/98PRXR68WAFOOHPGVD2FY0.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/NewBlueprint.uasset"
+>>>>>>> Josh-Branch
 			]
 		}
 	]
