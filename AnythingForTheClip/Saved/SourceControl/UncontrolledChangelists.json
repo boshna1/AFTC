@@ -1,0 +1,17 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainMenu.umap",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenu.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Videos/V_Video1.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/trim.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/M_Player1.uasset",
+				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/M_Video1.uasset"
+			]
+		}
+	]
+}
