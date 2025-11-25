@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "AnythingForTheClip",
+			"Path": "..\\Source\\AnythingForTheClip.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "AnythingForTheClipEditor",
+			"Path": "..\\Source\\AnythingForTheClipEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
