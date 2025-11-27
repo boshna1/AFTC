@@ -4,7 +4,7 @@ Anything For The Clip GDW Game
 
 
 
-Disclaimer: This Readme is For Game Engines -> This is also the first ReadME, the updated portion is further down the page, the youtube video, and flow chart can be found below as well.
+Disclaimer: This Readme is For Game Engines -> This is also the first ReadME, the updated portion is further down the page, the youtube video, and flow chart can be found below as well. Also, most of the models, sounds and textures are done by my team members if that is considered 3rd party assets.
 
 
 
