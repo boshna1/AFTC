@@ -1,0 +1,14 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Plugins\\FMODStudio\\Source\\FMODAudioLinkEditor\\FMODAudioLinkEditor.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Plugins\\FMODStudio\\Source\\FMODAudioLink\\FMODAudioLink.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Plugins\\FMODStudio\\Source\\FMODStudioEditor\\FMODStudioEditor.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Plugins\\FMODStudio\\Source\\FMODStudio\\FMODStudio.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Intermediate\\Source\\AnythingForTheClip.Build.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Intermediate\\Source\\AnythingForTheClip.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Intermediate\\Source\\AnythingForTheClipClient.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Intermediate\\Source\\AnythingForTheClipEditor.Target.cs",
+		"C:\\Users\\joshu\\Documents\\Unreal Projects\\AFTC\\AnythingForTheClip\\Intermediate\\Source\\AnythingForTheClipServer.Target.cs"
+	],
+	"EngineVersion": "5.6.1"
+}
