@@ -4,7 +4,7 @@ Anything For The Clip GDW Game
 
 
 
-Disclaimer: This Readme is For Game Engines
+Disclaimer: This Readme is For Game Engines -> This is also the first ReadME, the updated portion is further down the page, the youtube video, and flow chart can be found below as well.
 
 
 
@@ -62,7 +62,7 @@ These things are good for Singleton because they only have to happen once on gam
 
 
 
-Factory:
+***Factory***
 
 Factory is used to saturate the environment with items both for interactable and non-interactable in the future.
 
@@ -96,7 +96,7 @@ BP\_IO / BP\_InteractableObject Spawner Can is a spawner that is able to spawn e
 
 
 
-Command:
+***Command***
 
 Command is done through the key remapping system.
 
@@ -147,4 +147,125 @@ FMOD - Used plugin
 Installed and implemented FMOD files into project files, made an event in FMOD called Footstep\_wood. For now group does not have a footstep wood sound yet, so in place is a Minecraft sound. Bank made and copied to according file in content Content/FMOD/Banks. In blueprints, used play event at location FMOD node. Also tested using FMOD ambient sound on game startup.
 
 
+
+
+
+***Final Course Project Updates***
+
+Updates to Previous Patterns and Overall Game
+
+Note: The game as mentioned is for GDW, implemented with patterns and requirements of the project, it is incomplete in terms of some mechanics, art, and sound but mechanics surrounding game engines is done.
+
+Aesthetics
+Lighting tweaked to fit horror game
+Pixelation shader to simulate camera perspective
+A Couple Textures implemented
+A Couple sounds implemented and ties into FMOD usage
+Main Menu - Bare Bones
+Volume
+Main HUD with corresponding UI elements - Subs -> viewers tied to collecting items
+
+Backpack feature, to put items into to collect as the game objective
+
+can lose by getting caught by the entity
+can win after collecting all the objective items and exiting
+
+***Command***
+More keys added to binds that can be edited and reset
+
+Backpack key
+
+Sprint
+
+Pause
+
+***Singleton***
+Game Instance
+- Now contains volume values, since singleton is persistant between levels, it carries values from main menu and main game.
+
+New Game instance -> Audio manager
+Local to main game, holds sounds to be called by any actor in the level, only need one of these
+
+***Factory***
+Added more unique concrete instances
+
+Basketball
+Boardgame
+Chips
+Chocolatebar
+Doll
+HockeyStick
+
+Abstract has model variable which is modified by concrete also default physics values for weight drag etc.
+Each would have different models and physics values to simulate different weights and visuals.
+
+SodaCan -> changes texture within its concrete blueprint using texture modifications and parameters, simulating different brands for the soda can, indicating the need for different factory items. (Differing spawning conditions and randomization).
+
+Plugin/DLL
+Could not get my own plugins to work. Visual studio was not working no matter what I did, also trying to clean my computer by, resetting, full wipe cleaning my computer, updating, all didn't work so I defaulted back to FMOD. With FMOD I was able to add more sounds
+but would not be present in the build, because I can't compile the DLLS needed. It is better than the built in Unreal Sound I found, as it was more surround sound-like, and had more options for tweaking and editing. For example the wood footsteps sound I have were edited in FMOD to be spliced into single varying steps.
+
+***New Additions***
+
+**Optimization**
+
+Priority: Object Pooling
+
+For object pooling, I have it linked to the interactable item system I have. Before I had it spawn and destroy upon being put in the player's backpack. Now it simply disables it and puts it outside of the map
+
+Enabled Array - Array to hold items enabled in the map
+
+Available array - array to hold items available to be re enabled
+
+EnableItem Function - searches items in available array, removes it from available array, adds it to enabled array and spawns it where defined
+
+DisableItem Funciton - takes inputted item, removes from enabled array, spawns outside of map and adds to available array for future spawning
+
+Chose object pooling for this because if the spawning system had to generate new items and destroying constantly, it would just displace it for future use later.
+
+Dirty Flag - I do have implementation of dirty flag, but I deemed it not that good of use or impactful enough. So I decided to focus more on object pooling in this readme and the video. As mentioned in the video, used in the volume slider, and would mark the volume as dirty whenever the slider was moved, and only assigned to the singleton persistent across levels when needed. Also only checked every 0.3 seconds rather than event tick, even only a little, improving performance.
+
+**State**
+
+The use of state is in the Entity - the monster in the game.
+
+I used state because I think it is conventional with "AI" type entities in games.
+
+For mine I have
+
+Wander - wanders to random target points
+
+Investigate - whenever the monster is in range to hear sound
+
+Alert - Whenever the player is in vision
+
+Transform - Whenever the player stays within vision for x amount of time
+
+Chase - Chases the player
+
+Search - if LOS is broken goes to last seen position of the player
+
+Before I had it so that it went through a sequence every frame using event tick. Now I have a state flow, where it would only pulse one single execution and would change state when applicable. Also helping with performance.
+
+**Profiling**
+
+In my video, I provided an attempted trace using Unreal Insights which didn't pan out like I wanted, but I did use the commands and changes to improve FPS which I had proof of in the screenshots I had in testing.
+
+Camera - Disabled motion blur
+Used commands to tone down graphics, lighting, anti aliasing, ray tracing listed here
+
+Lumen Stuff
+r.Lumen.HardwareRayTracing 0
+r.RayTracing.ForceAllRayTracingEffectsOff 1
+r.Lumen.ScreenProbeGather.Quality 2
+r.Lumen.DiffuseIndirectQuality 2
+r.Lumen.Reflections.Quality 2
+
+disable TSR
+r.AntiAliasingMethod 1
+Switched anti aliasing method
+
+Turn Motionblur off
+
+Along with this, I had also mentioned some improvements with Dirtyflag and State but those shouldn't count for Profiling regarding the assignment instructions.
 
