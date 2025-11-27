@@ -152,6 +152,11 @@ Installed and implemented FMOD files into project files, made an event in FMOD c
 
 ***Final Course Project Updates***
 
+youtube video: https://youtu.be/0lRy3glbbo4
+
+Flow Chart: https://www.canva.com/design/DAG2X9VTx0I/uOMvB4Hcv6HCmL8dpyOAfQ/edit?utm_content=DAG2X9VTx0I&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+(Same Link as previous, just edited with new additions and updates)
+
 Updates to Previous Patterns and Overall Game
 
 Note: The game as mentioned is for GDW, implemented with patterns and requirements of the project, it is incomplete in terms of some mechanics, art, and sound but mechanics surrounding game engines is done.
