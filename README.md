@@ -270,6 +270,9 @@ disable TSR
 r.AntiAliasingMethod 1
 Switched anti aliasing method
 
+Source from these commands is this Epic Games Pages: https://dev.epicgames.com/documentation/en-us/unreal-engine/lumen-performance-guide-for-unreal-engine
+https://dev.epicgames.com/documentation/en-us/unreal-engine/anti-aliasing-and-upscaling-in-unreal-engine
+
 Turn Motionblur off
 
 Along with this, I had also mentioned some improvements with Dirtyflag and State but those shouldn't count for Profiling regarding the assignment instructions.
