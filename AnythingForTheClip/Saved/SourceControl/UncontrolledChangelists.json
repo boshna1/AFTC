@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BB_Entity.uasset",
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BT_Entity.uasset",
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uasset",
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AIC_Entity.uasset",
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uasset",
+				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/Tasks/BTT_CheckPlayerVisibility.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1_Video.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_MainHUD.uasset",
 				"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause.uasset",
