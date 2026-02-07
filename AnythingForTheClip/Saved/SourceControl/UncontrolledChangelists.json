@@ -1,0 +1,13 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Schwe/Documents/Unreal Projects/GDW5Tuto1/AFTC/AnythingForTheClip/Content/Michael/LV_Blockout.umap",
+				"C:/Users/Schwe/Documents/Unreal Projects/GDW5Tuto1/AFTC/AnythingForTheClip/Content/Michael/Basement.umap"
+			]
+		}
+	]
+}
