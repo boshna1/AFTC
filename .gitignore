@@ -79,3 +79,5 @@ AnythingForTheClip/Saved/Logs/AnythingForTheClip.log
 
 # Crash reports
 *.dmp
+
+*.log
