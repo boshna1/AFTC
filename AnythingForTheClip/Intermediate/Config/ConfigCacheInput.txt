@@ -20,9 +20,9 @@
   C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\DataDrivenPlatformInfo.ini|Engine/Config/Windows/DataDrivenPlatformInfo.ini
   C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\WindowsGame.ini|Engine/Config/Windows/WindowsGame.ini
   C:\Program Files\Epic Games\UE_5.6\Engine\Config\Windows\WindowsInput.ini|Engine/Config/Windows/WindowsInput.ini
-  C:\Users\joshu\Documents\Unreal Projects\AFTC\AnythingForTheClip\Config\DefaultEngine.ini|AnythingForTheClip/Config/DefaultEngine.ini
-  C:\Users\joshu\Documents\Unreal Projects\AFTC\AnythingForTheClip\Config\DefaultGame.ini|AnythingForTheClip/Config/DefaultGame.ini
-  C:\Users\joshu\Documents\Unreal Projects\AFTC\AnythingForTheClip\Config\DefaultInput.ini|AnythingForTheClip/Config/DefaultInput.ini
+  C:\Users\Joshua\Documents\GitHub\AFTC\AnythingForTheClip\Config\DefaultEngine.ini|AnythingForTheClip/Config/DefaultEngine.ini
+  C:\Users\Joshua\Documents\GitHub\AFTC\AnythingForTheClip\Config\DefaultGame.ini|AnythingForTheClip/Config/DefaultGame.ini
+  C:\Users\Joshua\Documents\GitHub\AFTC\AnythingForTheClip\Config\DefaultInput.ini|AnythingForTheClip/Config/DefaultInput.ini
 Paper2D
   C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\2D\Paper2D\Config\BasePaper2D.ini|Engine/Plugins/2D/Paper2D/Config/BasePaper2D.ini
 AISupport
@@ -202,4 +202,4 @@ Takes
   C:\Program Files\Epic Games\UE_5.6\Engine\Plugins\VirtualProduction\Takes\Config\BaseTakes.ini|Engine/Plugins/VirtualProduction/Takes/Config/BaseTakes.ini
 WorldMetrics
 ChatBox
-  C:\Users\joshu\Documents\Unreal Projects\AFTC\AnythingForTheClip\Plugins\ChatBox\Config\FilterPlugin.ini|AnythingForTheClip/Plugins/ChatBox/Config/FilterPlugin.ini
+  C:\Users\Joshua\Documents\GitHub\AFTC\AnythingForTheClip\Plugins\ChatBox\Config\FilterPlugin.ini|AnythingForTheClip/Plugins/ChatBox/Config/FilterPlugin.ini

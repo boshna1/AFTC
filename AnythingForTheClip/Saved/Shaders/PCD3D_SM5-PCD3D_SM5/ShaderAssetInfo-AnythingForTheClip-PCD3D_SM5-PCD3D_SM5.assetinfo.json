@@ -56,6 +56,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "CD3E3E0F876116C52572873FDEE658421373EDF6",
+			"Assets": [
+				"/Game/Assets/Models/Environment/Trim1/M_Trim1"
+			]
+		},
+		{
 			"ShaderMapHash": "169EA413C9087915A94EF27D45F03E41DF14E79C",
 			"Assets": [
 				"/InterchangeAssets/gltf/M_ClearCoat"
@@ -71,6 +77,12 @@
 			"ShaderMapHash": "A3705B14E17480CF6BBA575C1F2F683FC3C7F310",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "1DB07F150A49D9684DC8E8AFD98A42D89E0AFC35",
+			"Assets": [
+				"/Game/Assets/Models/Environment/Door/M_Door"
 			]
 		},
 		{
@@ -110,7 +122,9 @@
 			"Assets": [
 				"/Game/Assets/Movies/Vid1/M_Video1",
 				"/Game/Assets/Movies/Vid2/M_Player2_Mat",
-				"/Game/Assets/Movies/Vid3/M_Player_3_Video_Mat"
+				"/Game/Assets/Movies/Vid3/M_Player_3_Video_Mat",
+				"/Game/Assets/Movies/Vid4/Media4Text_Mat",
+				"/Game/Assets/Movies/Vid5/Media5_Video_Mat"
 			]
 		},
 		{
@@ -153,6 +167,18 @@
 			"ShaderMapHash": "7292443786443DD2FF7E2F7104F4296E9820E212",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "2E693F38293296ED1B2C72E35F51602A52F9927C",
+			"Assets": [
+				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Pixel_Video"
+			]
+		},
+		{
+			"ShaderMapHash": "6C9CF6399664E8AA3A72A59E6ABFBD63C9F885F6",
+			"Assets": [
+				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Pixel"
 			]
 		},
 		{
@@ -288,6 +314,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2406D570AD32993A9D65329ADD5F9C691C2E7425",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
 			"ShaderMapHash": "0D8E7A72A721613852007C3DCAD1FA3C26E8F6FC",
 			"Assets": [
 				"/Engine/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial"
@@ -337,6 +369,15 @@
 			]
 		},
 		{
+			"ShaderMapHash": "2C0C9E8989A4240497D56A21B105AF0FCF2EE2EB",
+			"Assets": [
+				"/Game/Assets/Models/Environment/BarBell2/M_Barbell2",
+				"/Game/Assets/Models/Environment/Bench/M_Bench",
+				"/Game/Assets/Models/Environment/LatBar/M_LatBar",
+				"/Game/Assets/Models/Environment/Plate/M_Plate"
+			]
+		},
+		{
 			"ShaderMapHash": "76535F8A1A0E3F6F114E729C1918A917FFB919AD",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Mask"
@@ -357,7 +398,8 @@
 		{
 			"ShaderMapHash": "9D478C94F277EE61CF4CF0D05C45395CA9F2D323",
 			"Assets": [
-				"/Game/Levels/LV_BlockoutTest"
+				"/Game/Levels/LV_BlockoutTest",
+				"/Game/Levels/LV_BlockoutTestJosh"
 			]
 		},
 		{
@@ -428,6 +470,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "421A92A1E3D50058738776278EBFE0D3682D94F4",
+			"Assets": [
+				"/Game/Assets/Models/Environment/Brick/M_Brick"
+			]
+		},
+		{
 			"ShaderMapHash": "200DAEA1A130A4BE510774EE9523C15DDB769901",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
@@ -437,6 +485,20 @@
 			"ShaderMapHash": "0D06D6A1ADEB38E9B8EE75D14841CEA5B4DEDE4A",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_Sheen_Opaque_DS"
+			]
+		},
+		{
+			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
+			"Assets": [
+				"/Game/Assets/Models/Environment/BarBell1/M_BarBell",
+				"/Game/Assets/Models/Environment/Barbell3/M_Barbell3",
+				"/Game/Assets/Models/Environment/BarbellRack/M_Rack",
+				"/Game/Assets/Models/Environment/Dumbell/M_Dumbell",
+				"/Game/Assets/Models/Environment/DumbellRack/M_DumbellRack",
+				"/Game/Assets/Models/Environment/KettleBell/M_KettleBell",
+				"/Game/Assets/Models/Environment/LatMachine/M_LatMachine",
+				"/Game/Assets/Models/Environment/SquatRack/M_SquatRack",
+				"/Game/Assets/Models/Environment/Trim2/M_Trim2"
 			]
 		},
 		{
@@ -485,12 +547,6 @@
 			"ShaderMapHash": "AE234BBB5CC9B46BEDECA6C854177C318BBFDCA0",
 			"Assets": [
 				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
-			]
-		},
-		{
-			"ShaderMapHash": "4A4C5DBC51DDCA23D2AF7DE2DB19555DF00AE3F2",
-			"Assets": [
-				"/Engine/BasicShapes/BasicShapeMaterial"
 			]
 		},
 		{
@@ -554,12 +610,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "D203CDD301727F29DAE001F3A4F3916EE6D6BA14",
-			"Assets": [
-				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Pixel"
-			]
-		},
-		{
 			"ShaderMapHash": "546776D93FAA41406AEF81D132662CDEF84203A6",
 			"Assets": [
 				"/Engine/EngineMaterials/PPM_DefaultCalibrationGrayscale"
@@ -618,6 +668,12 @@
 			"ShaderMapHash": "7510ABED71DEAA03FA32B19DFFD076277DE5A0EE",
 			"Assets": [
 				"/Engine/EditorMaterials/PhAT_UnselectedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E7036F589A2D072121D258E7A80B58D03070700",
+			"Assets": [
+				"/Game/Materials/Environment/Structure/GeneralBrick/M_GeneralBrick"
 			]
 		},
 		{

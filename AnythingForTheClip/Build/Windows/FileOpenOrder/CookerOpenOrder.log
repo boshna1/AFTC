@@ -13,50 +13,50 @@
 "../../../Engine/Content/Animation/DefaultVariableFrameStrippingSettings.uexp" 12
 "../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uasset" 13
 "../../../Engine/Content/Animation/DefaultRecorderBoneCompression.uexp" 14
-"../../../Engine/Content/EngineSounds/Master.uasset" 15
-"../../../Engine/Content/EngineSounds/Master.uexp" 16
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 17
-"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 18
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 19
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 20
-"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 21
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 22
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 23
-"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 24
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 25
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 26
-"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 27
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 28
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 29
-"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 30
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 31
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 32
-"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 33
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 34
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 35
-"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 36
-"../../../Engine/Content/EngineFonts/Roboto.uasset" 37
-"../../../Engine/Content/EngineFonts/Roboto.uexp" 38
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 39
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 40
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 41
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 42
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 43
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 44
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uasset" 45
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uexp" 46
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 47
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 48
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 49
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 50
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 51
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 52
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 53
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uexp" 54
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 55
-"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 56
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 57
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 58
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uasset" 15
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/DefaultGizmoLibraryNormalized.uexp" 16
+"../../../Engine/Content/EngineSounds/Master.uasset" 17
+"../../../Engine/Content/EngineSounds/Master.uexp" 18
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uasset" 19
+"../../../Engine/Content/EngineMaterials/DefaultDestructiblePhysicalMaterial.uexp" 20
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uexp" 21
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.uasset" 22
+"../../../Engine/Content/EngineFonts/Faces/DroidSansFallback.ufont" 23
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uexp" 24
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.uasset" 25
+"../../../Engine/Content/EngineFonts/Faces/RobotoBold.ufont" 26
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uexp" 27
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.uasset" 28
+"../../../Engine/Content/EngineFonts/Faces/RobotoBoldItalic.ufont" 29
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uexp" 30
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.uasset" 31
+"../../../Engine/Content/EngineFonts/Faces/RobotoItalic.ufont" 32
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uexp" 33
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.uasset" 34
+"../../../Engine/Content/EngineFonts/Faces/RobotoLight.ufont" 35
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uexp" 36
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.uasset" 37
+"../../../Engine/Content/EngineFonts/Faces/RobotoRegular.ufont" 38
+"../../../Engine/Content/EngineFonts/Roboto.uasset" 39
+"../../../Engine/Content/EngineFonts/Roboto.uexp" 40
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uasset" 41
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultTexturePipeline.uexp" 42
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uasset" 43
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneLevelPipeline.uexp" 44
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uasset" 45
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultSceneAssetsPipeline.uexp" 46
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uasset" 47
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialXPipeline.uexp" 48
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uasset" 49
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultMaterialPipeline.uexp" 50
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uasset" 51
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFSceneAssetsPipeline.uexp" 52
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uasset" 53
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFPipeline.uexp" 54
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uasset" 55
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultGLTFAssetsPipeline.uexp" 56
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uasset" 57
+"../../../Engine/Plugins/Interchange/Runtime/Content/Pipelines/DefaultAssetsPipeline.uexp" 58
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uasset" 59
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Thumb.uexp" 60
 "../../../Engine/Content/MobileResources/HUD/VirtualJoystick_Background.uasset" 61
@@ -94,306 +94,306 @@
 "../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/CameraOffset.uexp" 93
 "../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uasset" 94
 "../../../Engine/Plugins/Animation/ControlRig/Content/M_Manip.uexp" 95
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 96
-"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 97
-"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset" 98
-"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uexp" 99
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 100
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uexp" 101
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 102
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 103
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 104
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 105
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 106
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 107
-"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 108
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 109
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 110
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 111
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 112
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugIntValues.uasset" 113
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugIntValues.uexp" 114
-"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset" 115
-"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uexp" 116
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 117
-"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 118
-"../../../Engine/Content/EditorLandscapeResources/LandscapeDirtyMaterial.uasset" 119
-"../../../Engine/Content/EditorLandscapeResources/LandscapeDirtyMaterial.uexp" 120
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 121
-"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 122
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 123
-"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 124
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 125
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 126
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 127
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 128
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 129
-"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 130
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 131
-"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 132
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 133
-"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 134
-"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 135
-"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 136
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 137
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 138
-"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 139
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 140
-"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 141
-"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 142
-"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 143
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 144
-"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 145
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.ubulk" 146
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 147
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 148
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.ubulk" 149
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 150
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 151
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.ubulk" 152
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 153
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 154
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.ubulk" 155
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 156
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 157
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.ubulk" 158
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 159
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 160
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.ubulk" 161
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 162
-"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 163
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 164
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 165
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 166
-"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 167
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 168
-"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 169
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 170
-"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 171
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 172
-"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 173
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 174
-"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 175
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 176
-"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 177
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 178
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 179
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 180
-"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 181
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uasset" 182
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uexp" 183
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x8.uasset" 184
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x8.uexp" 185
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uasset" 186
-"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uexp" 187
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 188
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 189
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 190
-"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 191
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 192
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 193
-"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 194
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 195
-"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 196
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 197
-"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 198
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 199
-"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 200
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 201
-"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 202
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 203
-"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 204
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 205
-"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 206
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 207
-"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 208
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 209
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 210
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 211
-"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 212
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 213
-"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 214
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 215
-"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 216
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 217
-"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 218
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 219
-"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 220
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 221
-"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 222
-"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 223
-"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 224
-"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 225
-"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 226
-"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 227
-"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 228
-"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 229
-"../../../Engine/Content/EditorResources/S_Trigger.uasset" 230
-"../../../Engine/Content/EditorResources/S_Trigger.uexp" 231
-"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 232
-"../../../Engine/Content/EditorResources/S_Terrain.uasset" 233
-"../../../Engine/Content/EditorResources/S_Terrain.uexp" 234
-"../../../Engine/Content/EditorResources/S_Solver.ubulk" 235
-"../../../Engine/Content/EditorResources/S_Solver.uasset" 236
-"../../../Engine/Content/EditorResources/S_Solver.uexp" 237
-"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 238
-"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 239
-"../../../Engine/Content/EditorResources/BSPVertex.uasset" 240
-"../../../Engine/Content/EditorResources/BSPVertex.uexp" 241
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 242
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 243
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 244
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 245
-"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 246
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 247
-"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 248
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 249
-"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 250
-"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultOddSquare.uasset" 251
-"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultOddSquare.uexp" 252
-"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultEvenSquare.uasset" 253
-"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultEvenSquare.uexp" 254
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 255
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 256
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 257
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 258
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 259
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 260
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 261
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 262
-"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 263
-"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 264
-"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 265
-"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 266
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 267
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 268
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 269
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 270
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 271
-"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 272
-"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uasset" 273
-"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uexp" 274
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uasset" 275
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uexp" 276
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uasset" 277
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uexp" 278
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uasset" 279
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uexp" 280
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uasset" 281
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uexp" 282
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uasset" 283
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uexp" 284
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uasset" 285
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uexp" 286
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uasset" 287
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uexp" 288
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uasset" 289
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uexp" 290
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uasset" 291
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uexp" 292
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_IridescenceNoLUT.uasset" 293
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_IridescenceNoLUT.uexp" 294
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uasset" 295
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uexp" 296
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uasset" 297
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uexp" 298
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uasset" 299
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uexp" 300
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uasset" 301
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uexp" 302
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uasset" 303
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uexp" 304
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uasset" 305
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uexp" 306
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Displacement.uasset" 307
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Displacement.uexp" 308
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uasset" 309
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uexp" 310
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uasset" 311
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uexp" 312
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uasset" 313
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uexp" 314
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uasset" 315
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uexp" 316
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uasset" 317
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uexp" 318
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uasset" 319
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uexp" 320
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 321
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 322
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 323
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 324
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 325
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 326
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 327
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 328
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 329
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 330
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 331
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 332
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 333
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 334
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 335
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 336
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 337
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 338
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 339
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 340
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 341
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 342
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 343
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 344
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 345
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 346
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 347
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 348
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 349
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 350
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 351
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 352
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 353
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 354
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 355
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 356
-"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 357
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 358
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 359
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 360
-"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 361
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 362
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 363
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 364
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 365
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 366
-"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 367
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 368
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 369
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uasset" 370
-"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uexp" 371
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 372
-"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 373
-"../../../Engine/Content/EngineResources/Development/ZenLogo_64.uasset" 374
-"../../../Engine/Content/EngineResources/Development/ZenLogo_64.uexp" 375
-"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uasset" 376
-"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uexp" 377
-"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uasset" 378
-"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uexp" 379
-"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uasset" 380
-"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uexp" 381
-"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uasset" 382
-"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uexp" 383
-"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uasset" 384
-"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uexp" 385
-"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uasset" 386
-"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uexp" 387
-"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uasset" 388
-"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uexp" 389
-"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uasset" 390
-"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uexp" 391
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 392
-"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 393
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 394
-"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 395
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uasset" 96
+"../../../Engine/Content/EditorResources/S_TriggerSphere.uexp" 97
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uasset" 98
+"../../../Engine/Content/EditorResources/S_TriggerCapsule.uexp" 99
+"../../../Engine/Content/EditorResources/S_TriggerBox.uasset" 100
+"../../../Engine/Content/EditorResources/S_TriggerBox.uexp" 101
+"../../../Engine/Content/EditorResources/S_Trigger.ubulk" 102
+"../../../Engine/Content/EditorResources/S_Trigger.uasset" 103
+"../../../Engine/Content/EditorResources/S_Trigger.uexp" 104
+"../../../Engine/Content/EditorResources/S_Terrain.ubulk" 105
+"../../../Engine/Content/EditorResources/S_Terrain.uasset" 106
+"../../../Engine/Content/EditorResources/S_Terrain.uexp" 107
+"../../../Engine/Content/EditorResources/S_Solver.ubulk" 108
+"../../../Engine/Content/EditorResources/S_Solver.uasset" 109
+"../../../Engine/Content/EditorResources/S_Solver.uexp" 110
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uasset" 111
+"../../../Engine/Content/EditorResources/S_BoxReflectionCapture.uexp" 112
+"../../../Engine/Content/EditorResources/BSPVertex.uasset" 113
+"../../../Engine/Content/EditorResources/BSPVertex.uexp" 114
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.ubulk" 115
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uasset" 116
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicator.uexp" 117
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uasset" 118
+"../../../Engine/Content/EditorMaterials/PreviewShadowIndicatorMaterial.uexp" 119
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uasset" 120
+"../../../Engine/Content/EditorMaterials/PhAT_UnselectedMaterial.uexp" 121
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uasset" 122
+"../../../Engine/Content/EditorMaterials/PhAT_NoCollisionMaterial.uexp" 123
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uasset" 124
+"../../../Engine/Content/EditorLandscapeResources/WhiteSquareTexture.uexp" 125
+"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uasset" 126
+"../../../Engine/Content/EditorLandscapeResources/LayerVisMaterial.uexp" 127
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uasset" 128
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat2Components.uexp" 129
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uasset" 130
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/ScaleUVsByCenter.uexp" 131
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 132
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uexp" 133
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.ubulk" 134
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uasset" 135
+"../../../Engine/Content/EngineMaterials/DefaultDiffuse.uexp" 136
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uasset" 137
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Texturing/TextureCropping.uexp" 138
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uasset" 139
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ExampleContent/DebugNumberStrip.uexp" 140
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugIntValues.uasset" 141
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Debug/DebugIntValues.uexp" 142
+"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uasset" 143
+"../../../Engine/Content/EditorLandscapeResources/LandscapeLayerUsageMaterial.uexp" 144
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uasset" 145
+"../../../Engine/Content/EditorLandscapeResources/DefaultAlphaTexture.uexp" 146
+"../../../Engine/Content/EditorLandscapeResources/LandscapeDirtyMaterial.uasset" 147
+"../../../Engine/Content/EditorLandscapeResources/LandscapeDirtyMaterial.uexp" 148
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uasset" 149
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/VectorLength.uexp" 150
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uasset" 151
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/ObjectScale.uexp" 152
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uasset" 153
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat3Components.uexp" 154
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uasset" 155
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SafeNormalize.uexp" 156
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uasset" 157
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackInteger3.uexp" 158
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uasset" 159
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/UnpackDirection.uexp" 160
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.ubulk" 161
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uasset" 162
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/game_wind_noise.uexp" 163
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uasset" 164
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWindMotion.uexp" 165
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uasset" 166
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBranchMotion.uexp" 167
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uasset" 168
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/ObjectLocalBounds.uexp" 169
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uasset" 170
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/UVs/BoundingBoxBased_0-1_UVW.uexp" 171
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uasset" 172
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeWind.uexp" 173
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uasset" 174
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeCameraFacing.uexp" 175
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uasset" 176
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/EmptyNormal.uexp" 177
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uasset" 178
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/Empty.uexp" 179
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uasset" 180
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeMaster.uexp" 181
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uasset" 182
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboard.uexp" 183
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uasset" 184
+"../../../Engine/Plugins/Editor/SpeedTreeImporter/Content/SpeedTree9/SpeedTreeBillboardMaster.uexp" 185
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uasset" 186
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigXRayMaterial.uexp" 187
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uasset" 188
+"../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRigGizmoMaterial.uexp" 189
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uasset" 190
+"../../../Engine/Content/EngineMaterials/RemoveSurfaceMaterial.uexp" 191
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uasset" 192
+"../../../Engine/Content/EngineMaterials/PreintegratedSkinBRDF.uexp" 193
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uasset" 194
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationGrayscale.uexp" 195
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uasset" 196
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationGrayscale.uexp" 197
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uasset" 198
+"../../../Engine/Content/EngineMaterials/DefaultCalibrationColor.uexp" 199
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uasset" 200
+"../../../Engine/Content/EngineMaterials/PPM_DefaultCalibrationColor.uexp" 201
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uasset" 202
+"../../../Engine/Content/EngineMaterials/PhAT_JointLimitMaterial.uexp" 203
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uasset" 204
+"../../../Engine/Content/EngineMaterials/NaniteHiddenSectionMaterial.uexp" 205
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.ubulk" 206
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uasset" 207
+"../../../Engine/Content/EngineMaterials/InvalidLightmapSettings.uexp" 208
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uasset" 209
+"../../../Engine/Content/EngineMaterials/M_InvalidLightmapSettings.uexp" 210
+"../../../Engine/Content/EngineMaterials/MiniFont.uasset" 211
+"../../../Engine/Content/EngineMaterials/MiniFont.uexp" 212
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uasset" 213
+"../../../Engine/Content/EngineMaterials/GizmoMaterial.uexp" 214
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.ubulk" 215
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uasset" 216
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap_VT.uexp" 217
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.ubulk" 218
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uasset" 219
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap_VT.uexp" 220
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.ubulk" 221
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uasset" 222
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap_VT.uexp" 223
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.ubulk" 224
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uasset" 225
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor_VT.uexp" 226
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.ubulk" 227
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uasset" 228
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap_VT.uexp" 229
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.ubulk" 230
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uasset" 231
+"../../../Engine/Content/EngineMaterials/Black_1x1_EXR_Texture_VT.uexp" 232
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uasset" 233
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_WS_Normal_VT.uexp" 234
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset" 235
+"../../../Engine/Content/EngineMaterials/FlattenMaterial_VT.uexp" 236
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uasset" 237
+"../../../Engine/Content/EngineMaterials/BaseFlattenNormalMap.uexp" 238
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uasset" 239
+"../../../Engine/Content/EngineMaterials/BaseFlattenDiffuseMap.uexp" 240
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uasset" 241
+"../../../Engine/Content/EngineMaterials/BaseFlattenEmissiveMap.uexp" 242
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uasset" 243
+"../../../Engine/Content/EngineMaterials/BaseFlattenGrayscaleMap.uexp" 244
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uasset" 245
+"../../../Engine/Content/EngineMaterials/BaseFlattenLinearColor.uexp" 246
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uasset" 247
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/PivotPainter2/Black_1x1_EXR_Texture.uexp" 248
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uasset" 249
+"../../../Engine/Content/EngineMaterials/FlattenMaterial.uexp" 250
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uasset" 251
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_vec2_128x128x64.uexp" 252
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x8.uasset" 253
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x8.uexp" 254
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uasset" 255
+"../../../Engine/Content/EngineMaterials/FastBlueNoise_scalar_128x128x64.uexp" 256
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uasset" 257
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid_Low.uexp" 258
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uasset" 259
+"../../../Engine/Content/EngineMaterials/EmissiveMeshMaterial.uexp" 260
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.ubulk" 261
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uasset" 262
+"../../../Engine/Content/EngineMaterials/DefaultWhiteGrid.uexp" 263
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uasset" 264
+"../../../Engine/Content/EngineFonts/RobotoDistanceField.uexp" 265
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uasset" 266
+"../../../Engine/Content/EngineMaterials/DefaultTextMaterialOpaque.uexp" 267
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uasset" 268
+"../../../Engine/Content/EngineMaterials/DefaultPostProcessMaterial.uexp" 269
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uasset" 270
+"../../../Engine/Content/EngineMaterials/DefaultLightFunctionMaterial.uexp" 271
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uasset" 272
+"../../../Engine/Content/EngineMaterials/DefaultDeferredDecalMaterial.uexp" 273
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uasset" 274
+"../../../Engine/Content/EngineMaterials/DefaultBokeh.uexp" 275
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uasset" 276
+"../../../Engine/Content/EngineMaterials/DefaultBloomKernel.uexp" 277
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uasset" 278
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/CameraDirectionVector.uexp" 279
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uasset" 280
+"../../../Engine/Content/EngineDebugMaterials/VolumeToRender.uexp" 281
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uasset" 282
+"../../../Engine/Content/EngineDebugMaterials/M_VolumeRenderSphereTracePP.uexp" 283
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uasset" 284
+"../../../Engine/Content/EngineDebugMaterials/M_SimpleUnlitTranslucent.uexp" 285
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uasset" 286
+"../../../Engine/Content/EngineDebugMaterials/DebugMeshMaterial.uexp" 287
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uasset" 288
+"../../../Engine/Content/EngineDebugMaterials/DebugEditorMaterial.uexp" 289
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uasset" 290
+"../../../Engine/Content/EngineDamageTypes/DmgTypeBP_Environmental.uexp" 291
+"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultOddSquare.uasset" 292
+"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultOddSquare.uexp" 293
+"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultEvenSquare.uasset" 294
+"../../../Engine/Plugins/VirtualProduction/CameraCalibrationCore/Content/Materials/M_DefaultEvenSquare.uexp" 295
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uasset" 296
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairMeshesDefaultMaterial.uexp" 297
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uasset" 298
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDefaultMaterial.uexp" 299
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uasset" 300
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat2.uexp" 301
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uasset" 302
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat3.uexp" 303
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uasset" 304
+"../../../Engine/Content/EngineMaterials/HairDebugColor.uexp" 305
+"../../../Engine/Content/EngineMaterials/HairColorMap.uasset" 306
+"../../../Engine/Content/EngineMaterials/HairColorMap.uexp" 307
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uasset" 308
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairGroupColors.uexp" 309
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uasset" 310
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairDebugMaterial.uexp" 311
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uasset" 312
+"../../../Engine/Plugins/Runtime/HairStrands/Content/Materials/HairCardsDefaultMaterial.uexp" 313
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uasset" 314
+"../../../Engine/Plugins/Runtime/AudioWidgets/Content/Resources/ScrubHandleDown_Clamped.uexp" 315
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uasset" 316
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UsdPreviewSurface.uexp" 317
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uasset" 318
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_UniformEDF.uexp" 319
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uasset" 320
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TranslucentBSDF.uexp" 321
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uasset" 322
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ThinFilmBSDF.uexp" 323
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uasset" 324
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SurfaceUnlit.uexp" 325
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uasset" 326
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Surface.uexp" 327
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uasset" 328
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SubsurfaceBSDF.uexp" 329
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uasset" 330
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_SheenBSDF.uexp" 331
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uasset" 332
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OrenNayarBSDF.uexp" 333
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_IridescenceNoLUT.uasset" 334
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_IridescenceNoLUT.uexp" 335
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uasset" 336
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_StandardSurface.uexp" 337
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uasset" 338
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_TransmissionSurface.uexp" 339
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uasset" 340
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Translucent.uexp" 341
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uasset" 342
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_OpenPBR_Opaque.uexp" 343
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uasset" 344
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_MeasuredEDF.uexp" 345
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uasset" 346
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_GeneralizedSchlickBSDF.uexp" 347
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Displacement.uasset" 348
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_Displacement.uexp" 349
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uasset" 350
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_DielectricBSDF.uexp" 351
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uasset" 352
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConicalEDF.uexp" 353
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uasset" 354
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_ConductorBSDF.uexp" 355
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uasset" 356
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_BurleyDiffuseBSDF.uexp" 357
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uasset" 358
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AnisotropicVDF.uexp" 359
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uasset" 360
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MX_AbsorptionVDF.uexp" 361
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uasset" 362
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowVertexMaterial.uexp" 363
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uasset" 364
+"../../../Engine/Content/EditorMaterials/Dataflow/DataflowTwoSidedVertexMaterial.uexp" 365
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uasset" 366
+"../../../Engine/Content/EngineResources/FilmGrains/Marcie_Grain_v3_128_M2_000.uexp" 367
+"../../../Engine/Content/EngineResources/Development/ZenLogo_64.uasset" 368
+"../../../Engine/Content/EngineResources/Development/ZenLogo_64.uexp" 369
+"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uasset" 370
+"../../../Engine/Content/EngineMaterials/LTC/Sheen_LTC.uexp" 371
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uasset" 372
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCMat.uexp" 373
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uasset" 374
+"../../../Engine/Content/EngineMaterials/LTC/GGX_LTCAmp.uexp" 375
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uasset" 376
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Sheen_Energy.uexp" 377
+"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uasset" 378
+"../../../Engine/Content/EngineMaterials/EnergyConservation/SheenLegacy_Energy.uexp" 379
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uasset" 380
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_TransmissionEnergyArray.uexp" 381
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uasset" 382
+"../../../Engine/Content/EngineMaterials/EnergyConservation/GGX_ReflectionEnergy.uexp" 383
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uasset" 384
+"../../../Engine/Content/EngineMaterials/EnergyConservation/Diffuse_Energy.uexp" 385
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uasset" 386
+"../../../Engine/Content/EditorResources/SequenceRecorder/RecordingIndicator.uexp" 387
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uasset" 388
+"../../../Engine/Content/EditorResources/SequenceRecorder/Countdown.uexp" 389
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.ubulk" 390
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uasset" 391
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_OOD.uexp" 392
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.ubulk" 393
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uasset" 394
+"../../../Engine/Content/EditorMaterials/ParticleSystems/PSysThumbnail_NoImage.uexp" 395
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uasset" 396
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/PowerToRoughness.uexp" 397
 "../../../Engine/Content/Functions/Engine_MaterialFunctions01/Shading/ConvertFromDiffSpec.uasset" 398
@@ -615,22 +615,22 @@
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.ubulk" 614
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uasset" 615
 "../../../Engine/Plugins/Animation/ControlRig/Content/Controls/ControlRig_Wedge_solid.uexp" 616
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 617
-"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 618
-"../../../Engine/Content/BasicShapes/Cone.ubulk" 619
-"../../../Engine/Content/BasicShapes/Cone.uasset" 620
-"../../../Engine/Content/BasicShapes/Cone.uexp" 621
-"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 622
-"../../../Engine/Content/BasicShapes/Cylinder.uasset" 623
-"../../../Engine/Content/BasicShapes/Cylinder.uexp" 624
-"../../../Engine/Content/BasicShapes/Plane.ubulk" 625
-"../../../Engine/Content/BasicShapes/Plane.uasset" 626
-"../../../Engine/Content/BasicShapes/Plane.uexp" 627
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 628
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 629
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 630
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 631
-"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 632
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uasset" 617
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMeshMat.uexp" 618
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.ubulk" 619
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uasset" 620
+"../../../Engine/Content/EditorLandscapeResources/SplineEditorMesh.uexp" 621
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uasset" 622
+"../../../Engine/Content/EngineMaterials/DefaultMaterial.uexp" 623
+"../../../Engine/Content/BasicShapes/Cone.ubulk" 624
+"../../../Engine/Content/BasicShapes/Cone.uasset" 625
+"../../../Engine/Content/BasicShapes/Cone.uexp" 626
+"../../../Engine/Content/BasicShapes/Cylinder.ubulk" 627
+"../../../Engine/Content/BasicShapes/Cylinder.uasset" 628
+"../../../Engine/Content/BasicShapes/Cylinder.uexp" 629
+"../../../Engine/Content/BasicShapes/Plane.ubulk" 630
+"../../../Engine/Content/BasicShapes/Plane.uasset" 631
+"../../../Engine/Content/BasicShapes/Plane.uexp" 632
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.ubulk" 633
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uasset" 634
 "../../../Engine/Plugins/Media/MediaPlate/Content/SM_MediaPlateScreen.uexp" 635
@@ -670,89 +670,89 @@
 "../../../Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial.uexp" 669
 "../../../Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial_MaskedRegion.uasset" 670
 "../../../Engine/Content/EditorLandscapeResources/ColorMaskBrushMaterial_MaskedRegion.uexp" 671
-"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uasset" 672
-"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uexp" 673
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 674
-"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 675
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 676
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 677
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 678
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 679
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 680
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 681
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 682
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 683
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 684
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 685
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 686
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 687
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 688
-"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 689
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 690
-"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 691
-"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uasset" 692
-"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uexp" 693
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 694
-"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 695
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 696
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 697
-"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 698
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 699
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 700
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 701
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 702
-"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 703
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 704
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 705
-"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 706
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 707
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 708
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 709
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 710
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 711
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 712
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 713
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 714
-"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 715
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 716
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 717
-"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 718
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 719
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 720
-"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 721
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 722
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 723
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 724
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 725
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 726
-"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 727
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 728
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 729
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 730
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 731
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 732
-"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 733
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 734
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 735
-"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 736
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 737
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 738
-"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 739
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 740
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 741
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 742
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 743
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 744
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 745
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 746
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 747
-"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 748
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 749
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 750
-"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 751
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 752
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 753
-"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 754
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uasset" 672
+"../../../Engine/Content/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial_Inst.uexp" 673
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.ubulk" 674
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uasset" 675
+"../../../Engine/Content/VREditor/Sounds/UI/Drop_Item_From_ContentBrowser.uexp" 676
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uasset" 677
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoMaterial_Inst.uexp" 678
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.ubulk" 679
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uasset" 680
+"../../../Engine/Content/VREditor/TransformGizmo/UniformScaleHandle.uexp" 681
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.ubulk" 682
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uasset" 683
+"../../../Engine/Content/VREditor/TransformGizmo/TranslateArrowHandle.uexp" 684
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uasset" 685
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/SplitComponents.uexp" 686
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uasset" 687
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Math/Transform3x3Matrix.uexp" 688
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uasset" 689
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridMaterial.uexp" 690
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.ubulk" 691
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uasset" 692
+"../../../Engine/Content/VREditor/SnapGrid/SnapGridPlaneMesh.uexp" 693
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.ubulk" 694
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uasset" 695
+"../../../Engine/Content/VREditor/Sounds/UI/Gizmo_Handle_Clicked.uexp" 696
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.ubulk" 697
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uasset" 698
+"../../../Engine/Content/VREditor/Sounds/UI/Object_PickUp.uexp" 699
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.ubulk" 700
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uasset" 701
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Another_Actor.uexp" 702
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.ubulk" 703
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uasset" 704
+"../../../Engine/Content/VREditor/Sounds/UI/Object_Snaps_To_Grid.uexp" 705
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.ubulk" 706
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uasset" 707
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Down.uexp" 708
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.ubulk" 709
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uasset" 710
+"../../../Engine/Content/VREditor/Sounds/UI/Scaling_Up.uexp" 711
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.ubulk" 712
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uasset" 713
+"../../../Engine/Content/VREditor/Sounds/UI/Selection_Changes.uexp" 714
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.ubulk" 715
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uasset" 716
+"../../../Engine/Content/VREditor/TransformGizmo/PlaneTranslationHandle.uexp" 717
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.ubulk" 718
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uasset" 719
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleFull.uexp" 720
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.ubulk" 721
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uasset" 722
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleIndicator.uexp" 723
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.ubulk" 724
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uasset" 725
+"../../../Engine/Content/VREditor/TransformGizmo/RotationHandleQuarter.uexp" 726
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.ubulk" 727
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uasset" 728
+"../../../Engine/Content/VREditor/TransformGizmo/StartRotationHandleIndicator.uexp" 729
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.ubulk" 730
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uasset" 731
+"../../../Engine/Content/VREditor/TransformGizmo/TransformGizmoFreeRotation.uexp" 732
+"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uasset" 733
+"../../../Engine/Content/EngineResources/LandscapeVisibilityLayerInfo.uexp" 734
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uasset" 735
+"../../../Engine/Content/EngineResources/WhiteSquareTexture.uexp" 736
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uasset" 737
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough.uexp" 738
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uasset" 739
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent.uexp" 740
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uasset" 741
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Translucent_OneSided.uexp" 742
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uasset" 743
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque.uexp" 744
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uasset" 745
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Opaque_OneSided.uexp" 746
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uasset" 747
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked_OneSided.uexp" 748
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uasset" 749
+"../../../Engine/Content/EngineMaterials/Widget3DPassThrough_Masked.uexp" 750
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uasset" 751
+"../../../Engine/Content/EngineMaterials/WeightMapPlaceholderTexture.uexp" 752
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uasset" 753
+"../../../Engine/Content/EngineMaterials/WeightMapArrayPlaceholderTexture.uexp" 754
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uasset" 755
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/Textures/T_White_srgb.uexp" 756
 "../../../Engine/Plugins/Interchange/Assets/Content/gltf/MaterialFunctions/MF_BaseColor.uasset" 757
@@ -941,280 +941,653 @@
 "../../../Engine/Plugins/Animation/DeformerGraph/Content/DeformerFunctions/DG_Function_LinearBlendSkin_Morph_Cloth.uexp" 940
 "../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uasset" 941
 "../../../Engine/Plugins/Animation/DeformerGraph/Content/Deformers/DG_LinearBlendSkin_Morph_Cloth.uexp" 942
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 943
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 944
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 945
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 946
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 947
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 948
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 949
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 950
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 951
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 952
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 953
-"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 954
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 955
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 956
-"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 957
-"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 958
-"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uasset" 959
-"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uexp" 960
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.ubulk" 961
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uasset" 962
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uexp" 963
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.ubulk" 964
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uasset" 965
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uexp" 966
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.ubulk" 967
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uasset" 968
-"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uexp" 969
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 970
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 971
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 972
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 973
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 974
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 975
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 976
-"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 977
-"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uasset" 978
-"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uexp" 979
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uasset" 980
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uexp" 981
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 982
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 983
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 984
-"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 985
-"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 986
-"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 987
-"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 988
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel.uasset" 989
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel.uexp" 990
-"../../../Engine/Content/BasicShapes/Cube.ubulk" 991
-"../../../Engine/Content/BasicShapes/Cube.uasset" 992
-"../../../Engine/Content/BasicShapes/Cube.uexp" 993
-"../../../Engine/Content/BasicShapes/Sphere.ubulk" 994
-"../../../Engine/Content/BasicShapes/Sphere.uasset" 995
-"../../../Engine/Content/BasicShapes/Sphere.uexp" 996
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 997
-"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 998
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Wood.uasset" 999
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Wood.uexp" 1000
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Tile.uasset" 1001
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Tile.uexp" 1002
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Exit.uasset" 1003
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Exit.uexp" 1004
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseItem.uasset" 1005
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseItem.uexp" 1006
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_OBJPool.uasset" 1007
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_OBJPool.uexp" 1008
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uexp" 1009
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 1010
-"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.ufont" 1011
-"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 1012
-"../../../Engine/Content/EngineFonts/DroidSansMono.uexp" 1013
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1014
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 1015
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1016
-"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 1017
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_PixelHUD.uasset" 1018
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_PixelHUD.uexp" 1019
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.ubulk" 1020
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.uasset" 1021
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.uexp" 1022
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.ubulk" 1023
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.uasset" 1024
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.uexp" 1025
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/UICurve.uasset" 1026
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/UICurve.uexp" 1027
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.ubulk" 1028
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.uasset" 1029
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.uexp" 1030
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_MainHUD.uasset" 1031
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_MainHUD.uexp" 1032
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_Player_Backpack.uasset" 1033
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_Player_Backpack.uexp" 1034
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.ubulk" 1035
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.uasset" 1036
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.uexp" 1037
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.ubulk" 1038
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.uasset" 1039
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.uexp" 1040
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.ubulk" 1041
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.uasset" 1042
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.uexp" 1043
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.ubulk" 1044
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.uasset" 1045
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.uexp" 1046
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.ubulk" 1047
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.uasset" 1048
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.uexp" 1049
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.ubulk" 1050
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.uasset" 1051
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.uexp" 1052
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.ubulk" 1053
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.uasset" 1054
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.uexp" 1055
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.ubulk" 1056
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.uasset" 1057
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.uexp" 1058
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/E_Sounds.uasset" 1059
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/E_Sounds.uexp" 1060
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.ubulk" 1061
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.uasset" 1062
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.uexp" 1063
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.ubulk" 1064
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.uasset" 1065
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.uexp" 1066
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.ubulk" 1067
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.uasset" 1068
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.uexp" 1069
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_AudioManager.uasset" 1070
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_AudioManager.uexp" 1071
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls_Remap.uasset" 1072
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls_Remap.uexp" 1073
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Esc.uasset" 1074
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Esc.uexp" 1075
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls.uasset" 1076
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls.uexp" 1077
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause.uasset" 1078
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause.uexp" 1079
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_DeathCamera.uasset" 1080
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_DeathCamera.uexp" 1081
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Sprint.uasset" 1082
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Sprint.uexp" 1083
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Move.uasset" 1084
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Move.uexp" 1085
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uasset" 1086
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uexp" 1087
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_LeftClick.uasset" 1088
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_LeftClick.uexp" 1089
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uasset" 1090
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uexp" 1091
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Backpack.uasset" 1092
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Backpack.uexp" 1093
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uasset" 1094
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uexp" 1095
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uasset" 1096
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uexp" 1097
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_PhongToMetalRoughness.uasset" 1098
-"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_PhongToMetalRoughness.uexp" 1099
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Material.uasset" 1100
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Material.uexp" 1101
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.ubulk" 1102
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.uasset" 1103
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.uexp" 1104
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.ubulk" 1105
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.uasset" 1106
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.uexp" 1107
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.ubulk" 1108
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.uasset" 1109
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.uexp" 1110
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.ubulk" 1111
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.uasset" 1112
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.uexp" 1113
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/M_HatMan.uasset" 1114
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/M_HatMan.uexp" 1115
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uasset" 1116
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uexp" 1117
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uasset" 1118
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uexp" 1119
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_Singleton.uasset" 1120
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_Singleton.uexp" 1121
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1.uasset" 1122
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1.uexp" 1123
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1_Video.uasset" 1124
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1_Video.uexp" 1125
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Video1.uasset" 1126
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Video1.uexp" 1127
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/trim.uasset" 1128
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/trim.uexp" 1129
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2.uasset" 1130
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2.uexp" 1131
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2_Video.uasset" 1132
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2_Video.uexp" 1133
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player2_Mat.uasset" 1134
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player2_Mat.uexp" 1135
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/vid2.uasset" 1136
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/vid2.uexp" 1137
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3.uasset" 1138
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3.uexp" 1139
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video.uasset" 1140
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video.uexp" 1141
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video_Mat.uasset" 1142
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video_Mat.uexp" 1143
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/video3.uasset" 1144
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/video3.uexp" 1145
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenu.uasset" 1146
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenu.uexp" 1147
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/MainMenu/BP_Player_UI.uasset" 1148
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Player/MainMenu/BP_Player_UI.uexp" 1149
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BP_GameMode_MainMenu.uasset" 1150
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BP_GameMode_MainMenu.uexp" 1151
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainMenu.uexp" 1152
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_MainMenu.umap" 1153
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1154
-"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1155
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_Pixel.uasset" 1156
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_Pixel.uexp" 1157
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD.uasset" 1158
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD.uexp" 1159
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD_Inst.uasset" 1160
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD_Inst.uexp" 1161
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_WoodFloor.uasset" 1162
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_WoodFloor.uexp" 1163
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_TileFloor.uasset" 1164
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_TileFloor.uexp" 1165
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/BP_MainGame.uasset" 1166
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/BP_MainGame.uexp" 1167
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uasset" 1168
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uexp" 1169
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Voices.uasset" 1170
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Voices.uexp" 1171
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseSpawn.uasset" 1172
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseSpawn.uexp" 1173
-"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 1174
-"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1175
-"../../../Engine/Content/EngineMeshes/Sphere.uexp" 1176
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall.uasset" 1177
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall.uexp" 1178
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall_Spawner.uasset" 1179
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall_Spawner.uexp" 1180
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame.uasset" 1181
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame.uexp" 1182
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame_Spawner.uasset" 1183
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame_Spawner.uexp" 1184
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips.uasset" 1185
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips.uexp" 1186
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips_Spawner.uasset" 1187
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips_Spawner.uexp" 1188
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar.uasset" 1189
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar.uexp" 1190
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar_Spawner.uasset" 1191
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar_Spawner.uexp" 1192
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_Doll.uasset" 1193
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_Doll.uexp" 1194
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_DollSpawner.uasset" 1195
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_DollSpawner.uexp" 1196
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick.uasset" 1197
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick.uexp" 1198
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick_Spawner.uasset" 1199
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick_Spawner.uexp" 1200
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.ubulk" 1201
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.uasset" 1202
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.uexp" 1203
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/CanMaterial.uasset" 1204
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/CanMaterial.uexp" 1205
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.ubulk" 1206
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.uasset" 1207
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.uexp" 1208
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan.uasset" 1209
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan.uexp" 1210
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan_Spawner.uasset" 1211
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan_Spawner.uexp" 1212
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.uexp" 1213
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.ubulk" 1214
-"C:/Users/joshu/Documents/Unreal Projects/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.umap" 1215
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 1216
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 1217
-"../../../Engine/Content/Maps/Entry.uexp" 1218
-"../../../Engine/Content/Maps/Entry.umap" 1219
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 943
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 944
+"../../../Engine/Content/Maps/Entry.uexp" 945
+"../../../Engine/Content/Maps/Entry.umap" 946
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 947
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 948
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 949
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 950
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 951
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 952
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 953
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 954
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 955
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 956
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 957
+"../../../Engine/Content/EngineSky/SM_SkySphere.ubulk" 958
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 959
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 960
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uasset" 961
+"../../../Engine/Content/EngineSky/M_SimpleSkyDome.uexp" 962
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uasset" 963
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_PerlinWorley_Balanced.uexp" 964
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.ubulk" 965
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uasset" 966
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_Profile_08.uexp" 967
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.ubulk" 968
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uasset" 969
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudPattern.uexp" 970
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.ubulk" 971
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uasset" 972
+"../../../Engine/Content/EngineSky/VolumetricClouds/T_CloudMask.uexp" 973
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uasset" 974
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/BreakOutFloat4Components.uexp" 975
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uasset" 976
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture2D.uexp" 977
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uasset" 978
+"../../../Engine/Content/EngineResources/DefaultVolumeTexture.uexp" 979
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uasset" 980
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/Utility/MakeFloat4.uexp" 981
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uasset" 982
+"../../../Engine/Content/EngineSky/VolumetricClouds/VT_Lightning.uexp" 983
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uasset" 984
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Units/Km-to-Cm.uexp" 985
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uasset" 986
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud.uexp" 987
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uasset" 988
+"../../../Engine/Content/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud_Inst.uexp" 989
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim5.uasset" 990
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim5.uexp" 991
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim4.uasset" 992
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim4.uexp" 993
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim3_-_Trim.uasset" 994
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim3_-_Trim.uexp" 995
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim2_-_Trim.uasset" 996
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim2_-_Trim.uexp" 997
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim1_trim.uasset" 998
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Movies/trim1_trim.uexp" 999
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.ubulk" 1000
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.uasset" 1001
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/ambiance.uexp" 1002
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/crackle.ubulk" 1003
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/crackle.uasset" 1004
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/crackle.uexp" 1005
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Mouse_clickDone.ubulk" 1006
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Mouse_clickDone.uasset" 1007
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Mouse_clickDone.uexp" 1008
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/E_Sounds.uasset" 1009
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/E_Sounds.uexp" 1010
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/E_SoundTypes.uasset" 1011
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/E_SoundTypes.uexp" 1012
+"../../../Engine/Content/BasicShapes/Sphere.ubulk" 1013
+"../../../Engine/Content/BasicShapes/Sphere.uasset" 1014
+"../../../Engine/Content/BasicShapes/Sphere.uexp" 1015
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uasset" 1016
+"../../../Engine/Content/BasicShapes/BasicShapeMaterial.uexp" 1017
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Teleport.uasset" 1018
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Teleport.uexp" 1019
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Wood.uasset" 1020
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Wood.uexp" 1021
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Tile.uasset" 1022
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/PM_Tile.uexp" 1023
+"../../../Engine/Content/BasicShapes/Cube.ubulk" 1024
+"../../../Engine/Content/BasicShapes/Cube.uasset" 1025
+"../../../Engine/Content/BasicShapes/Cube.uexp" 1026
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseItem.uasset" 1027
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseItem.uexp" 1028
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_OBJPool.uasset" 1029
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_OBJPool.uexp" 1030
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uexp" 1031
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.uasset" 1032
+"../../../Engine/Content/EngineFonts/Faces/DroidSansMono.ufont" 1033
+"../../../Engine/Content/EngineFonts/DroidSansMono.uasset" 1034
+"../../../Engine/Content/EngineFonts/DroidSansMono.uexp" 1035
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertSemiMonoTRIAL-Bold-BF67243fd539cff.uexp" 1036
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertSemiMonoTRIAL-Bold-BF67243fd539cff.uasset" 1037
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertSemiMonoTRIAL-Bold-BF67243fd539cff.ufont" 1038
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertSemiMonoTRIAL-Bold-BF67243fd539cff_Font.uasset" 1039
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertSemiMonoTRIAL-Bold-BF67243fd539cff_Font.uexp" 1040
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertMonoTRIAL-Regular-BF67243fd29a433.uexp" 1041
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertMonoTRIAL-Regular-BF67243fd29a433.uasset" 1042
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertMonoTRIAL-Regular-BF67243fd29a433.ufont" 1043
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertMonoTRIAL-Regular-BF67243fd29a433_Font.uasset" 1044
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/RoobertMonoTRIAL-Regular-BF67243fd29a433_Font.uexp" 1045
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/Data.uasset" 1046
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/Data.uexp" 1047
+"../../../Engine/Content/EngineResources/DefaultTexture.ubulk" 1048
+"../../../Engine/Content/EngineResources/DefaultTexture.uasset" 1049
+"../../../Engine/Content/EngineResources/DefaultTexture.uexp" 1050
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uasset" 1051
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Density/ExponentialDensity.uexp" 1052
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uasset" 1053
+"../../../Engine/Content/Functions/Engine_MaterialFunctions01/Gradient/RadialGradientExponential.uexp" 1054
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_PixelHUD.uasset" 1055
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_PixelHUD.uexp" 1056
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_Text.uasset" 1057
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_Text.uexp" 1058
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.ubulk" 1059
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.uasset" 1060
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Paused.uexp" 1061
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.ubulk" 1062
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.uasset" 1063
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Volume.uexp" 1064
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.ubulk" 1065
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.uasset" 1066
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Play.uexp" 1067
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/UICurve.uasset" 1068
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/UICurve.uexp" 1069
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/crosshair.ubulk" 1070
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/crosshair.uasset" 1071
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/crosshair.uexp" 1072
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_MainHUD.uasset" 1073
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_MainHUD.uexp" 1074
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_Player_Backpack.uasset" 1075
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_Player_Backpack.uexp" 1076
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Exit.uasset" 1077
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Exit.uexp" 1078
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls_Remap.uasset" 1079
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls_Remap.uexp" 1080
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Esc.uasset" 1081
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Esc.uexp" 1082
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls.uasset" 1083
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause_Controls.uexp" 1084
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause.uasset" 1085
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/BPW_UI_Pause.uexp" 1086
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uasset" 1087
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/E_Entity_States.uexp" 1088
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.ubulk" 1089
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.uasset" 1090
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Texture.uexp" 1091
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/M_HatMan.uasset" 1092
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/M_HatMan.uexp" 1093
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_PhongToMetalRoughness.uasset" 1094
+"../../../Engine/Plugins/Interchange/Assets/Content/Functions/MF_PhongToMetalRoughness.uexp" 1095
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Material.uasset" 1096
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Material.uexp" 1097
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.ubulk" 1098
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.uasset" 1099
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Body.uexp" 1100
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.ubulk" 1101
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.uasset" 1102
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Hat.uexp" 1103
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.ubulk" 1104
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.uasset" 1105
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Hatman/Arm.uexp" 1106
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/Tasks/BTT_GetWander.uasset" 1107
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/Tasks/BTT_GetWander.uexp" 1108
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BB_Entity.uasset" 1109
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BB_Entity.uexp" 1110
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BTT_Transform.uasset" 1111
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BTT_Transform.uexp" 1112
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BT_Entity.uasset" 1113
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BT_Entity.uexp" 1114
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AIC_Entity.uasset" 1115
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AIC_Entity.uexp" 1116
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uasset" 1117
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity.uexp" 1118
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_DeathCamera.uasset" 1119
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_DeathCamera.uexp" 1120
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Sprint.uasset" 1121
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Sprint.uexp" 1122
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Move.uasset" 1123
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Move.uexp" 1124
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uasset" 1125
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Look.uexp" 1126
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_LeftClick.uasset" 1127
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_LeftClick.uexp" 1128
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uasset" 1129
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Lean.uexp" 1130
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Backpack.uasset" 1131
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IA_Backpack.uexp" 1132
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uasset" 1133
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uexp" 1134
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/grabbed.ubulk" 1135
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/grabbed.uasset" 1136
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/grabbed.uexp" 1137
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Grabicon.ubulk" 1138
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Grabicon.uasset" 1139
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/Grabicon.uexp" 1140
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uasset" 1141
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/BP_PlayerCharacter.uexp" 1142
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_Singleton.uasset" 1143
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_Singleton.uexp" 1144
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.ubulk" 1145
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.uasset" 1146
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Whisper.uexp" 1147
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.ubulk" 1148
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.uasset" 1149
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Thunder.uexp" 1150
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.ubulk" 1151
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.uasset" 1152
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/step1.uexp" 1153
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.ubulk" 1154
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.uasset" 1155
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Object_Drop.uexp" 1156
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.ubulk" 1157
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.uasset" 1158
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Metal_Drop.uexp" 1159
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.ubulk" 1160
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.uasset" 1161
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/footstepv2.uexp" 1162
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.ubulk" 1163
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.uasset" 1164
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/FastBreathing.uexp" 1165
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.ubulk" 1166
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.uasset" 1167
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/DoorCreak.uexp" 1168
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.ubulk" 1169
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.uasset" 1170
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Clock.uexp" 1171
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.ubulk" 1172
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.uasset" 1173
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/Breathing.uexp" 1174
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/MenuSwitch.ubulk" 1175
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/MenuSwitch.uasset" 1176
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/MenuSwitch.uexp" 1177
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/AFTCambience.ubulk" 1178
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/AFTCambience.uasset" 1179
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Sounds/SFX/AFTCambience.uexp" 1180
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_AudioManager.uasset" 1181
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Singleton/BP_AudioManager.uexp" 1182
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel_Video.uasset" 1183
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel_Video.uexp" 1184
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel.uasset" 1185
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Pixel.uexp" 1186
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1.uasset" 1187
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1.uexp" 1188
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1_Video.uasset" 1189
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Player1_Video.uexp" 1190
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Video1.uasset" 1191
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid1/M_Video1.uexp" 1192
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2.uasset" 1193
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2.uexp" 1194
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2_Video.uasset" 1195
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player_Vid2_Video.uexp" 1196
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player2_Mat.uasset" 1197
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid2/M_Player2_Mat.uexp" 1198
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3.uasset" 1199
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3.uexp" 1200
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video.uasset" 1201
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video.uexp" 1202
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video_Mat.uasset" 1203
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid3/M_Player_3_Video_Mat.uexp" 1204
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/cross.ubulk" 1205
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/cross.uasset" 1206
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/2D/UI/cross.uexp" 1207
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4.uasset" 1208
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4.uexp" 1209
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4Text.uasset" 1210
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4Text.uexp" 1211
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4Text_Mat.uasset" 1212
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid4/Media4Text_Mat.uexp" 1213
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5.uasset" 1214
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5.uexp" 1215
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5_Video.uasset" 1216
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5_Video.uexp" 1217
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5_Video_Mat.uasset" 1218
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Movies/Vid5/Media5_Video_Mat.uexp" 1219
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenuFix.uasset" 1220
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenuFix.uexp" 1221
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenu.uasset" 1222
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BPW_MainMenu.uexp" 1223
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/MainMenu/BP_Player_UI.uasset" 1224
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/MainMenu/BP_Player_UI.uexp" 1225
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BP_GameMode_MainMenu.uasset" 1226
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/UI/MainMenu/BP_GameMode_MainMenu.uexp" 1227
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_MainMenu.uexp" 1228
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_MainMenu.umap" 1229
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uasset" 1230
+"../../../Engine/Content/EngineMaterials/DefaultPhysicalMaterial.uexp" 1231
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_normal.ubulk" 1232
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_normal.uasset" 1233
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_normal.uexp" 1234
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_baseColor.ubulk" 1235
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_baseColor.uasset" 1236
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/BrickWallLowPoly_baseColor.uexp" 1237
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/M_GeneralBrick.uasset" 1238
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/GeneralBrick/M_GeneralBrick.uexp" 1239
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_Pixel.uasset" 1240
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_Pixel.uexp" 1241
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD.uasset" 1242
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD.uexp" 1243
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD_Inst.uasset" 1244
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD_Inst.uexp" 1245
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_WoodFloor.uasset" 1246
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_WoodFloor.uexp" 1247
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_TileFloor.uasset" 1248
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Materials/Environment/Structure/M_TileFloor.uexp" 1249
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/BP_MainGame.uasset" 1250
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/BP_MainGame.uexp" 1251
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uasset" 1252
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/BP_Entity_Spawner.uexp" 1253
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack.ubulk" 1254
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack.uasset" 1255
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack.uexp" 1256
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatMat.ubulk" 1257
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatMat.uasset" 1258
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatMat.uexp" 1259
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate.ubulk" 1260
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate.uasset" 1261
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate.uexp" 1262
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mirror.ubulk" 1263
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mirror.uasset" 1264
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mirror.uexp" 1265
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mat.ubulk" 1266
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mat.uasset" 1267
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Mat.uexp" 1268
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine.ubulk" 1269
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine.uasset" 1270
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine.uexp" 1271
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Lat.ubulk" 1272
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Lat.uasset" 1273
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Lat.uexp" 1274
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell.ubulk" 1275
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell.uasset" 1276
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell.uexp" 1277
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Floor.ubulk" 1278
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Floor.uasset" 1279
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Floor.uexp" 1280
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellText.ubulk" 1281
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellText.uasset" 1282
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellText.uexp" 1283
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack.ubulk" 1284
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack.uasset" 1285
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack.uexp" 1286
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door.ubulk" 1287
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door.uasset" 1288
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door.uexp" 1289
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingTile.ubulk" 1290
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingTile.uasset" 1291
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingTile.uexp" 1292
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingLight.ubulk" 1293
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingLight.uasset" 1294
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingLight.uexp" 1295
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingExhaust.ubulk" 1296
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingExhaust.uasset" 1297
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/CeilingExhaust.uexp" 1298
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench.ubulk" 1299
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench.uasset" 1300
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench.uexp" 1301
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BaseBoard.ubulk" 1302
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BaseBoard.uasset" 1303
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BaseBoard.uexp" 1304
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarRack.ubulk" 1305
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarRack.uasset" 1306
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarRack.uexp" 1307
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar3.ubulk" 1308
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar3.uasset" 1309
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar3.uexp" 1310
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar2.ubulk" 1311
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar2.uasset" 1312
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar2.uexp" 1313
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar1.ubulk" 1314
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar1.uasset" 1315
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bar1.uexp" 1316
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Roughness.ubulk" 1317
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Roughness.uasset" 1318
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Roughness.uexp" 1319
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Normal.ubulk" 1320
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Normal.uasset" 1321
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Normal.uexp" 1322
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Metallic.ubulk" 1323
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Metallic.uasset" 1324
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_Metallic.uexp" 1325
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_BaseColor.ubulk" 1326
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_BaseColor.uasset" 1327
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/TrimPlaneLow_DefaultMaterial_BaseColor.uexp" 1328
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/M_Trim2.uasset" 1329
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim2/M_Trim2.uexp" 1330
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Roughness.ubulk" 1331
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Roughness.uasset" 1332
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Roughness.uexp" 1333
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Normal.ubulk" 1334
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Normal.uasset" 1335
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Normal.uexp" 1336
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Metallic.ubulk" 1337
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Metallic.uasset" 1338
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Metallic.uexp" 1339
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Emissive.ubulk" 1340
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Emissive.uasset" 1341
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_Emissive.uexp" 1342
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_BaseColor.ubulk" 1343
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_BaseColor.uasset" 1344
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/TrimPlaneLow_DefaultMaterial_BaseColor.uexp" 1345
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/M_Trim1.uasset" 1346
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Trim1/M_Trim1.uexp" 1347
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Roughness.ubulk" 1348
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Roughness.uasset" 1349
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Roughness.uexp" 1350
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Normal.ubulk" 1351
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Normal.uasset" 1352
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Normal.uexp" 1353
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Metallic.ubulk" 1354
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Metallic.uasset" 1355
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_Metallic.uexp" 1356
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_BaseColor.ubulk" 1357
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_BaseColor.uasset" 1358
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/SquatRack_DefaultMaterial_BaseColor.uexp" 1359
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/M_SquatRack.uasset" 1360
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/SquatRack/M_SquatRack.uexp" 1361
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Roughness.ubulk" 1362
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Roughness.uasset" 1363
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Roughness.uexp" 1364
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Normal.ubulk" 1365
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Normal.uasset" 1366
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Normal.uexp" 1367
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Metallic.ubulk" 1368
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Metallic.uasset" 1369
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_Metallic.uexp" 1370
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_BaseColor.ubulk" 1371
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_BaseColor.uasset" 1372
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/Plate_TD_Checker_BaseColor.uexp" 1373
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/M_Plate.uasset" 1374
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Plate/M_Plate.uexp" 1375
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Roughness.ubulk" 1376
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Roughness.uasset" 1377
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Roughness.uexp" 1378
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Normal.ubulk" 1379
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Normal.uasset" 1380
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Normal.uexp" 1381
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Metallic.ubulk" 1382
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Metallic.uasset" 1383
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_Metallic.uexp" 1384
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_BaseColor.ubulk" 1385
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_BaseColor.uasset" 1386
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/LatMachine_DefaultMaterial_BaseColor.uexp" 1387
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/M_LatMachine.uasset" 1388
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatMachine/M_LatMachine.uexp" 1389
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Roughness.ubulk" 1390
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Roughness.uasset" 1391
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Roughness.uexp" 1392
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Normal.ubulk" 1393
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Normal.uasset" 1394
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Normal.uexp" 1395
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Metallic.ubulk" 1396
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Metallic.uasset" 1397
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_Metallic.uexp" 1398
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_BaseColor.ubulk" 1399
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_BaseColor.uasset" 1400
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/LatBell_DefaultMaterial_BaseColor.uexp" 1401
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/M_LatBar.uasset" 1402
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/LatBar/M_LatBar.uexp" 1403
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Roughness.ubulk" 1404
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Roughness.uasset" 1405
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Roughness.uexp" 1406
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Normal.ubulk" 1407
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Normal.uasset" 1408
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Normal.uexp" 1409
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Metallic.ubulk" 1410
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Metallic.uasset" 1411
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_Metallic.uexp" 1412
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_BaseColor.ubulk" 1413
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_BaseColor.uasset" 1414
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/KettleBell_TD_Checker_BaseColor.uexp" 1415
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/M_KettleBell.uasset" 1416
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/KettleBell/M_KettleBell.uexp" 1417
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Roughness.ubulk" 1418
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Roughness.uasset" 1419
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Roughness.uexp" 1420
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Normal.ubulk" 1421
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Normal.uasset" 1422
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Normal.uexp" 1423
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Metallic.ubulk" 1424
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Metallic.uasset" 1425
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_Metallic.uexp" 1426
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_BaseColor.ubulk" 1427
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_BaseColor.uasset" 1428
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/DumbellRack_DefaultMaterial_BaseColor.uexp" 1429
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/M_DumbellRack.uasset" 1430
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/DumbellRack/M_DumbellRack.uexp" 1431
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Roughness.ubulk" 1432
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Roughness.uasset" 1433
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Roughness.uexp" 1434
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Normal.ubulk" 1435
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Normal.uasset" 1436
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Normal.uexp" 1437
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Metallic.ubulk" 1438
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Metallic.uasset" 1439
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_Metallic.uexp" 1440
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_BaseColor.ubulk" 1441
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_BaseColor.uasset" 1442
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/DumbellLow_DefaultMaterial_BaseColor.uexp" 1443
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/M_Dumbell.uasset" 1444
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Dumbell/M_Dumbell.uexp" 1445
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Roughness.ubulk" 1446
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Roughness.uasset" 1447
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Roughness.uexp" 1448
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Metallic.ubulk" 1449
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Metallic.uasset" 1450
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_Metallic.uexp" 1451
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_BaseColor.ubulk" 1452
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_BaseColor.uasset" 1453
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/Door_DefaultMaterial_BaseColor.uexp" 1454
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/M_Door.uasset" 1455
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Door/M_Door.uexp" 1456
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/Wall.ubulk" 1457
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/Wall.uasset" 1458
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/Wall.uexp" 1459
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Roughness.ubulk" 1460
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Roughness.uasset" 1461
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Roughness.uexp" 1462
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Normal.ubulk" 1463
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Normal.uasset" 1464
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_Normal.uexp" 1465
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_BaseColor.ubulk" 1466
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_BaseColor.uasset" 1467
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/TrimPlaneLow_DefaultMaterial_BaseColor.uexp" 1468
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/M_Brick.uasset" 1469
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Brick/M_Brick.uexp" 1470
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Roughness.ubulk" 1471
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Roughness.uasset" 1472
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Roughness.uexp" 1473
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Normal.ubulk" 1474
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Normal.uasset" 1475
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Normal.uexp" 1476
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Metallic.ubulk" 1477
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Metallic.uasset" 1478
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_Metallic.uexp" 1479
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_BaseColor.ubulk" 1480
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_BaseColor.uasset" 1481
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/Bench_DefaultMaterial_BaseColor.uexp" 1482
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/M_Bench.uasset" 1483
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Bench/M_Bench.uexp" 1484
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Roughness.ubulk" 1485
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Roughness.uasset" 1486
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Roughness.uexp" 1487
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Normal.ubulk" 1488
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Normal.uasset" 1489
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Normal.uexp" 1490
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Metallic.ubulk" 1491
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Metallic.uasset" 1492
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_Metallic.uexp" 1493
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_BaseColor.ubulk" 1494
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_BaseColor.uasset" 1495
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/BarRack_DefaultMaterial_BaseColor.uexp" 1496
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/M_Rack.uasset" 1497
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarbellRack/M_Rack.uexp" 1498
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Roughness.ubulk" 1499
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Roughness.uasset" 1500
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Roughness.uexp" 1501
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Normal.ubulk" 1502
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Normal.uasset" 1503
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Normal.uexp" 1504
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Metallic.ubulk" 1505
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Metallic.uasset" 1506
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_Metallic.uexp" 1507
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_BaseColor.ubulk" 1508
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_BaseColor.uasset" 1509
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/BarBell3_DefaultMaterial_BaseColor.uexp" 1510
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/M_Barbell3.uasset" 1511
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/Barbell3/M_Barbell3.uexp" 1512
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Roughness.ubulk" 1513
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Roughness.uasset" 1514
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Roughness.uexp" 1515
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Normal.ubulk" 1516
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Normal.uasset" 1517
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Normal.uexp" 1518
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Metallic.ubulk" 1519
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Metallic.uasset" 1520
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_Metallic.uexp" 1521
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_BaseColor.ubulk" 1522
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_BaseColor.uasset" 1523
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/BarBell2_DefaultMaterial_BaseColor.uexp" 1524
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/M_Barbell2.uasset" 1525
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell2/M_Barbell2.uexp" 1526
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Roughness.ubulk" 1527
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Roughness.uasset" 1528
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Roughness.uexp" 1529
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Normal.ubulk" 1530
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Normal.uasset" 1531
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Normal.uexp" 1532
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Metallic.ubulk" 1533
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Metallic.uasset" 1534
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_Metallic.uexp" 1535
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_BaseColor.ubulk" 1536
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_BaseColor.uasset" 1537
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/BaseBarBell_DefaultMaterial_BaseColor.uexp" 1538
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/M_BarBell.uasset" 1539
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Environment/BarBell1/M_BarBell.uexp" 1540
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Voices.uasset" 1541
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/BP_Voices.uexp" 1542
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseSpawn.uasset" 1543
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BP_IO_BaseSpawn.uexp" 1544
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.ubulk" 1545
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.uasset" 1546
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/SodaTex.uexp" 1547
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/CanMaterial.uasset" 1548
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/CanMaterial.uexp" 1549
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.ubulk" 1550
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.uasset" 1551
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Items/SodaCan/Soda.uexp" 1552
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan.uasset" 1553
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan.uexp" 1554
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan_Spawner.uasset" 1555
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/SodaCan/BP_IO_SodaCan_Spawner.uexp" 1556
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick.uasset" 1557
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick.uexp" 1558
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick_Spawner.uasset" 1559
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/HockeyStick/BP_IO_HockeyStick_Spawner.uexp" 1560
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_Doll.uasset" 1561
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_Doll.uexp" 1562
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_DollSpawner.uasset" 1563
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Doll/BP_IO_DollSpawner.uexp" 1564
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar.uasset" 1565
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar.uexp" 1566
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar_Spawner.uasset" 1567
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/ChocBar/BP_IO_ChocBar_Spawner.uexp" 1568
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips.uasset" 1569
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips.uexp" 1570
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips_Spawner.uasset" 1571
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Chips/BP_IO_Chips_Spawner.uexp" 1572
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame.uasset" 1573
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame.uexp" 1574
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame_Spawner.uasset" 1575
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/BoardGame/BP_IO_BoardGame_Spawner.uexp" 1576
+"../../../Engine/Content/EngineMeshes/Sphere.ubulk" 1577
+"../../../Engine/Content/EngineMeshes/Sphere.uasset" 1578
+"../../../Engine/Content/EngineMeshes/Sphere.uexp" 1579
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall.uasset" 1580
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall.uexp" 1581
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall_Spawner.uasset" 1582
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Environment/Interactables/Items/Basketball/BP_IO_BasketBall_Spawner.uexp" 1583
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Caf/Bulb.ubulk" 1584
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Caf/Bulb.uasset" 1585
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Assets/Models/Caf/Bulb.uexp" 1586
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTestJosh.uexp" 1587
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTestJosh.ubulk" 1588
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTestJosh.umap" 1589
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.uexp" 1590
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.ubulk" 1591
+"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutTest.umap" 1592
