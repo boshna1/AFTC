@@ -158,3 +158,5 @@ DerivedDataCache/*
 *.ucas
 *.utoc
 *.pak
+Intermediate/
+Saved/
