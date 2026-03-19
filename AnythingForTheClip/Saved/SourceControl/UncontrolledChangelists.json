@@ -5,6 +5,7 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Schwe/Documents/Unreal Projects/GDW5Tuto1/AFTC/AnythingForTheClip/Content/Levels/LV_BlockoutMichael.umap",
 				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BB_Entity.uasset",
 				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Entity/AI/BT_Entity.uasset",
 				"C:/Users/Joshua/Documents/GitHub/AFTC/AnythingForTheClip/Content/Blueprints/Player/Input/IMC_Game_Player.uasset",
