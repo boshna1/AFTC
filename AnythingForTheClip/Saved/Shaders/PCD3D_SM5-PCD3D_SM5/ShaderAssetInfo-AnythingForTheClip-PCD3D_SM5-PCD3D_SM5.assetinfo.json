@@ -50,15 +50,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "EB30C70EE2C0372BA8E7745B640A663AA0BBB8E5",
+			"ShaderMapHash": "439B010EF518DFE38A42297D6BEC4749C098B095",
 			"Assets": [
-				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
+				"/Game/Materials/Environment/Structure/M_WoodFloor"
 			]
 		},
 		{
-			"ShaderMapHash": "CD3E3E0F876116C52572873FDEE658421373EDF6",
+			"ShaderMapHash": "EB30C70EE2C0372BA8E7745B640A663AA0BBB8E5",
 			"Assets": [
-				"/Game/Assets/Models/Environment/Trim1/M_Trim1"
+				"/InterchangeAssets/gltf/MaterialInstances/MI_Unlit_Blend_DS"
 			]
 		},
 		{
@@ -82,14 +82,7 @@
 		{
 			"ShaderMapHash": "1DB07F150A49D9684DC8E8AFD98A42D89E0AFC35",
 			"Assets": [
-				"/Game/Assets/Models/Environment/Door/M_Door"
-			]
-		},
-		{
-			"ShaderMapHash": "39089320D0DF37BFB499E3C8ED69B567EC3BC89D",
-			"Assets": [
-				"/Game/Materials/Environment/Structure/M_TileFloor",
-				"/Game/Materials/Environment/Structure/M_WoodFloor"
+				"/Game/Assets/Models/Gym/Door/M_Door"
 			]
 		},
 		{
@@ -172,7 +165,7 @@
 		{
 			"ShaderMapHash": "2E693F38293296ED1B2C72E35F51602A52F9927C",
 			"Assets": [
-				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Pixel_Video"
+				"/Game/Materials/Shaders/PostProcessing/UI/Pixel/M_S_UI_Pixel_Video"
 			]
 		},
 		{
@@ -245,6 +238,13 @@
 			"ShaderMapHash": "11C76659A71592D83EB8CF1E848125BFA9994C96",
 			"Assets": [
 				"/Engine/EditorLandscapeResources/ColorMaskBrushMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "59D00F5AD4AF0C996E0C58946EB4C248F1DFEBE5",
+			"Assets": [
+				"/Game/Assets/Models/Items/Basketball/Material",
+				"/Game/Assets/Models/Player/Flashlight/Material"
 			]
 		},
 		{
@@ -346,7 +346,11 @@
 		{
 			"ShaderMapHash": "02DBCD7D9AA5B29AD18DED561D715DE64D730214",
 			"Assets": [
-				"/Game/Assets/Models/Hatman/Material"
+				"/Game/Assets/Models/Environment/Material",
+				"/Game/Assets/Models/Hatman/Material",
+				"/Game/Assets/Models/Items/Chips/Material",
+				"/Game/Assets/Models/Items/Material",
+				"/Game/Assets/Models/Items/Material_001"
 			]
 		},
 		{
@@ -371,10 +375,10 @@
 		{
 			"ShaderMapHash": "2C0C9E8989A4240497D56A21B105AF0FCF2EE2EB",
 			"Assets": [
-				"/Game/Assets/Models/Environment/BarBell2/M_Barbell2",
-				"/Game/Assets/Models/Environment/Bench/M_Bench",
-				"/Game/Assets/Models/Environment/LatBar/M_LatBar",
-				"/Game/Assets/Models/Environment/Plate/M_Plate"
+				"/Game/Assets/Models/Gym/BarBell2/M_Barbell2",
+				"/Game/Assets/Models/Gym/Bench/M_Bench",
+				"/Game/Assets/Models/Gym/LatBar/M_LatBar",
+				"/Game/Assets/Models/Gym/Plate/M_Plate"
 			]
 		},
 		{
@@ -393,6 +397,12 @@
 			"ShaderMapHash": "7FE4938DAA8F82860F8A575D7F61780BC9749B4E",
 			"Assets": [
 				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "78F9078E9B7362B7E7F04C376F53BEC359505A2D",
+			"Assets": [
+				"/Game/Assets/Models/Gym/Brick/M_Brick"
 			]
 		},
 		{
@@ -433,6 +443,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "84185C98E8FE29BEE5B407BADECB36483FE6664A",
+			"Assets": [
+				"/Game/Assets/Models/Gym/Trim1/M_Trim1"
+			]
+		},
+		{
 			"ShaderMapHash": "73A4C9992A6B85B2CBF11F8F3E5A2C810335341B",
 			"Assets": [
 				"/ControlRig/M_Manip"
@@ -470,12 +486,6 @@
 			]
 		},
 		{
-			"ShaderMapHash": "421A92A1E3D50058738776278EBFE0D3682D94F4",
-			"Assets": [
-				"/Game/Assets/Models/Environment/Brick/M_Brick"
-			]
-		},
-		{
 			"ShaderMapHash": "200DAEA1A130A4BE510774EE9523C15DDB769901",
 			"Assets": [
 				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
@@ -490,15 +500,15 @@
 		{
 			"ShaderMapHash": "9F47B8A7DECBF7F6C8EB48FF0E8BCFBD2A9F9D4F",
 			"Assets": [
-				"/Game/Assets/Models/Environment/BarBell1/M_BarBell",
-				"/Game/Assets/Models/Environment/Barbell3/M_Barbell3",
-				"/Game/Assets/Models/Environment/BarbellRack/M_Rack",
-				"/Game/Assets/Models/Environment/Dumbell/M_Dumbell",
-				"/Game/Assets/Models/Environment/DumbellRack/M_DumbellRack",
-				"/Game/Assets/Models/Environment/KettleBell/M_KettleBell",
-				"/Game/Assets/Models/Environment/LatMachine/M_LatMachine",
-				"/Game/Assets/Models/Environment/SquatRack/M_SquatRack",
-				"/Game/Assets/Models/Environment/Trim2/M_Trim2"
+				"/Game/Assets/Models/Gym/BarBell1/M_BarBell",
+				"/Game/Assets/Models/Gym/Barbell3/M_Barbell3",
+				"/Game/Assets/Models/Gym/BarbellRack/M_Rack",
+				"/Game/Assets/Models/Gym/Dumbell/M_Dumbell",
+				"/Game/Assets/Models/Gym/DumbellRack/M_DumbellRack",
+				"/Game/Assets/Models/Gym/KettleBell/M_KettleBell",
+				"/Game/Assets/Models/Gym/LatMachine/M_LatMachine",
+				"/Game/Assets/Models/Gym/SquatRack/M_SquatRack",
+				"/Game/Assets/Models/Gym/Trim2/M_Trim2"
 			]
 		},
 		{
@@ -552,7 +562,7 @@
 		{
 			"ShaderMapHash": "1D3FA7C089EE32F47F19CB93FBFB81C8ACE28310",
 			"Assets": [
-				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD_Inst"
+				"/Game/Materials/Shaders/PostProcessing/UI/Fishbowl/M_S_UI_Fishbowl_HUD_Inst"
 			]
 		},
 		{
@@ -589,6 +599,12 @@
 			"ShaderMapHash": "4134ABC2929D41A8F1CF1A6502630F7A60806466",
 			"Assets": [
 				"/InterchangeAssets/gltf/MaterialInstances/MI_SpecularGlossiness_Blend"
+			]
+		},
+		{
+			"ShaderMapHash": "64FEB3C3ECBF276FA23544B6971A8DA607257D16",
+			"Assets": [
+				"/Game/Materials/Environment/Structure/CeilingTexture/M_CeilingTexture"
 			]
 		},
 		{
@@ -637,7 +653,7 @@
 		{
 			"ShaderMapHash": "919E61E108A5620772A256549745B9DF5D8B51C4",
 			"Assets": [
-				"/Game/Materials/Shaders/PostProcessing/M_S_UI_Fishbowl_HUD"
+				"/Game/Materials/Shaders/PostProcessing/UI/Fishbowl/M_S_UI_Fishbowl_HUD"
 			]
 		},
 		{
@@ -655,7 +671,7 @@
 		{
 			"ShaderMapHash": "B4015DE9C114F347767548BEFE5B957D1EE42E87",
 			"Assets": [
-				"/Game/Materials/Shaders/PostProcessing/M_S_UI_PixelHUD"
+				"/Game/Materials/Shaders/PostProcessing/UI/Pixel/M_S_UI_PixelHUD"
 			]
 		},
 		{
@@ -673,7 +689,14 @@
 		{
 			"ShaderMapHash": "7E7036F589A2D072121D258E7A80B58D03070700",
 			"Assets": [
-				"/Game/Materials/Environment/Structure/GeneralBrick/M_GeneralBrick"
+				"/Game/Materials/Environment/Structure/GeneralBrick/M_GeneralBrick",
+				"/Game/Materials/Environment/Structure/TileFloor/M_TileFloor"
+			]
+		},
+		{
+			"ShaderMapHash": "78F881F7DF9F735B8EF632B427AC23B450E04B52",
+			"Assets": [
+				"/Game/Assets/2D/FTC_MAP_LOL_Mat"
 			]
 		},
 		{
