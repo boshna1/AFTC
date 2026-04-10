@@ -86,14 +86,16 @@ ConfigSystem.Android.Engine:/Script/Engine.GarbageCollectionSettings:gc.VerifyUO
 ConfigSystem.Android.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:0=(ProfileName="Average",ToolTip="Simulates average internet conditions")
 ConfigSystem.Android.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:1=(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=1
-ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.Android.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
@@ -364,14 +366,16 @@ ConfigSystem.IOS.Engine:/Script/Engine.GarbageCollectionSettings:gc.VerifyUObjec
 ConfigSystem.IOS.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:0=(ProfileName="Average",ToolTip="Simulates average internet conditions")
 ConfigSystem.IOS.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:1=(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
-ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.IOS.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
@@ -655,13 +659,15 @@ ConfigSystem.Mac.Engine:/Script/Engine.GarbageCollectionSettings:gc.VerifyUObjec
 ConfigSystem.Mac.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:0=(ProfileName="Average",ToolTip="Simulates average internet conditions")
 ConfigSystem.Mac.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:1=(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
-ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.Mac.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
@@ -2090,13 +2096,15 @@ ConfigSystem.<Editor>.Engine:/Script/Engine.Player:ConfiguredInternetSpeed:0=100
 ConfigSystem.<Editor>.Engine:/Script/Engine.Player:ConfiguredLanSpeed:0=100000
 ConfigSystem.<Editor>.Engine:/Script/Engine.PlayerCameraManager:ServerUpdateCameraTimeout:0=2.0
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
-ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.<Editor>.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
@@ -2486,7 +2494,7 @@ ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:MinSampleRate:0=8000.000000
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:OcclusionPlugin:0=
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:ReverbPlugin:0=
-ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:SoundCueCookQualityIndex:0=-1
+ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:SoundCueCookQualityIndex:0=0
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:SourceDataOverridePlugin:0=
 ConfigSystem.<Editor>.Engine:/Script/WindowsTargetPlatform.WindowsTargetSettings:SpatializationPlugin:0=
 ConfigSystem.<Editor>.Engine:Animation.DefaultObjectSettings:AnimationRecorderBoneCompressionSettings:0=/Engine/Animation/DefaultRecorderBoneCompression
@@ -2679,11 +2687,11 @@ ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:MaxAllowedTestingTim
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningInterval:0=30.0
 ConfigSystem.<Editor>.Game:/Script/AIModule.EnvQueryManager:QueryCountWarningThreshold:0=0
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:LaunchOnTarget:0=
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformArchitecture:0=()
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformArchitecture:0=(("Windows", "x64"))
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildConfig:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformBuildTarget:0=()
 ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:PerPlatformTargetFlavorName:0=(("Android", "Android_ASTC"))
-ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Joshua/Desktop/FTC1.4")
+ConfigSystem.<Editor>.Game:/Script/DeveloperToolSettings.PlatformsMenuSettings:StagingDirectory:0=(Path="C/Users/Joshua/Desktop/FTCFINAL")
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:0=(PrimaryAssetType="Map",AssetBaseClass=/Script/Engine.World,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game/Maps")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.AssetManagerSettings:PrimaryAssetTypesToScan:1=(PrimaryAssetType="PrimaryAssetLabel",AssetBaseClass=/Script/Engine.PrimaryAssetLabel,bHasBlueprintClasses=False,bIsEditorOnly=True,Directories=((Path="/Game")),SpecificAssets=,Rules=(Priority=-1,ChunkId=-1,bApplyRecursively=True,CookRule=Unknown))
 ConfigSystem.<Editor>.Game:/Script/Engine.DebugCameraController:bShowSelectedInfo:0=true
@@ -2746,7 +2754,7 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:ApplocalPre
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bBuildHttpChunkInstallData:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bChunkHardReferencesOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCompressed:0=True
-ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=False
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookAll:0=True
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bCookMapsOnly:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bDeterministicShaderCodeOrder:0=False
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:bExcludeMonolithicEngineHeadersInNativizedCode:0=False
@@ -2779,6 +2787,9 @@ ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:Directories
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:4=(Path="/Game/FMOD/Reverbs")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:5=(Path="/Game/FMOD/Snapshots")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:6=(Path="/Game/FMOD/VCAs")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:7=(Path="/Game/Assets/Sounds/SFX")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:8=(Path="/Game/Assets/Sounds/Music")
+ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysCook:9=(Path="/Game/Levels")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:DirectoriesToAlwaysStageAsNonUFS:0=(Path="FMOD/Desktop")
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:0=...\Content\Internationalization\...\*.icu
 ConfigSystem.<Editor>.Game:/Script/UnrealEd.ProjectPackagingSettings:EarlyDownloaderPakFileFiles:1=...\Content\Internationalization\...\*.brk
@@ -3340,14 +3351,16 @@ ConfigSystem.TVOS.Engine:/Script/Engine.GarbageCollectionSettings:gc.VerifyUObje
 ConfigSystem.TVOS.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:0=(ProfileName="Average",ToolTip="Simulates average internet conditions")
 ConfigSystem.TVOS.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:1=(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DistanceFields:0=0
-ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.TVOS.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
@@ -3585,13 +3598,15 @@ ConfigSystem.Windows.Engine:/Script/Engine.GarbageCollectionSettings:gc.VerifyUO
 ConfigSystem.Windows.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:0=(ProfileName="Average",ToolTip="Simulates average internet conditions")
 ConfigSystem.Windows.Engine:/Script/Engine.NetworkSettings:NetworkEmulationProfiles:1=(ProfileName="Bad",ToolTip="Simulates laggy internet conditions")
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:MaxSkinBones:0=(Default=65536,PerPlatform=(("Mobile", 256)))
+ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.AllowGlobalClipPlane:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.AllowStaticLighting:0=False
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.AutoExposure.ExtendDefaultLuminanceRange:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.HighlightContrastScale:0=0.8
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DefaultFeature.LocalExposure.ShadowContrastScale:0=0.8
-ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=1
+ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.DynamicGlobalIlluminationMethod:0=2
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.GenerateMeshDistanceFields:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.GPUCrashDebugging:0=false
+ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.Lumen.HardwareRayTracing.LightingMode:0=0
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.RayTracing:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.RayTracing.RayTracingProxies.ProjectEnabled:0=True
 ConfigSystem.Windows.Engine:/Script/Engine.RendererSettings:r.ReflectionMethod:0=1
